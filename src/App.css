@@ -45,7 +45,6 @@ html, body {
   text-decoration: none;
 }
 
-/* .App-link {
-  color: #61dafb;
-} */
-
+.icon:hover {
+  color: #D9526B;
+}

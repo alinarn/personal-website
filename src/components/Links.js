@@ -6,6 +6,9 @@ const Links = () => {
         <a href="https://github.com/alinarn" className="icon" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-github"></i>
         </a>
+        <a href="mailto:alina.aarnautova@gmail.com" className="icon" target="_blank" rel="noopener noreferrer">
+          <i className="fas fa-envelope"></i>
+        </a>
         <a href="https://www.linkedin.com/in/alina-arnautova/" className="icon" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-linkedin"></i>
         </a>
